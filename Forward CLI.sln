@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forward CLI", "Forward CLI.csproj", "{21EC36D0-A5B7-4AC7-8D9A-6D0FDA6DD8FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EC36D0-A5B7-4AC7-8D9A-6D0FDA6DD8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EC36D0-A5B7-4AC7-8D9A-6D0FDA6DD8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EC36D0-A5B7-4AC7-8D9A-6D0FDA6DD8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EC36D0-A5B7-4AC7-8D9A-6D0FDA6DD8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B879916A-2850-4982-A423-5A05E8056211}
+	EndGlobalSection
+EndGlobal

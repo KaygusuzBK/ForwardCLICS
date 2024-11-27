@@ -1,0 +1,17 @@
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Forward CLI.exe
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Forward CLI.deps.json
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Forward CLI.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Forward CLI.dll
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Forward CLI.pdb
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.dll
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\refint\Forward CLI.dll
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.pdb
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\ref\Forward CLI.dll
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward CLI.csproj.AssemblyReference.cache
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\berka\OneDrive\Masaüstü\Forward CLI\obj\Debug\net8.0\Forward .484946E6.Up2Date
